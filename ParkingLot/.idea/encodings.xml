@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/parking/dao/InfoDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/parking/dao/PictureDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/parking/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/parking/servlet/LoginOutServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/parking/servlet/UpLoadServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/parking/utils/SqlUtil.java" charset="GBK" />
+  </component>
+</project>
